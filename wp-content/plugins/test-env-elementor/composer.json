@@ -1,0 +1,17 @@
+{
+    "name": "vlad/test-env-elementor",
+    "description": "Test Environmeny Plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Vlad",
+            "email": "vlchervjakov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Form\\": "./form"
+        }
+    }
+}
